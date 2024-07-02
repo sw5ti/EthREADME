@@ -52,7 +52,7 @@ contract MyToken {
 ## Authors
 
 Swati Kumari
-[@swaditya.sk54@gmail.com](swaditya.sk54@gmail.com)
+swaditya.sk54@gmail.com
 
 ## License
 
